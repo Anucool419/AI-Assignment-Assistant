@@ -1,0 +1,6 @@
+fake/
+Lib/
+Scripts/
+pyvenv.cfg/
+.env
+__pyscache__/
